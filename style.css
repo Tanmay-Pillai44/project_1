@@ -1,0 +1,53 @@
+#head {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+pre, code {
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#nos {
+    color: #0000ff;
+}
+
+#table1, #cell1, #cell2 {
+    border: 1px solid black;
+    border-spacing: 2px;
+    height: 24px;
+}
+
+#cell1 {
+    background-color: #cccccc;
+}
+
+#cindy1 {
+    border-collapse: separate;
+    border-spacing: 0px 15px;
+}
+
+
+#ball1 {
+    width: 44px; 
+    height: 44px;
+    border: 1px solid black;
+    background-color: #cccccc;
+}
+
+#enter {
+    color: black;
+}
+
+#rev {
+    color: #0000ff;
+}
+
+#wb {
+    color: black;
+}
+
+
+
+
+
